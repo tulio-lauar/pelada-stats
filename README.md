@@ -31,5 +31,5 @@ Sistema de gerenciamento de estatísticas esportivas para partidas amadoras, com
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/pelada-analytics.git
-   cd pelada-analytics
+   git clone https://github.com/tulio-lauar/pelada-stats.git
+   cd pelada-stats
