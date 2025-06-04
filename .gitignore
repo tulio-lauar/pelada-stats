@@ -1,0 +1,7 @@
+# .gitignore
+.env
+__pycache__/
+*.sqlite3
+*.pyc
+.DS_Store  # (Mac)
+venv/      # (Se usar ambiente virtual)
