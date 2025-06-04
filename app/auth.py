@@ -13,6 +13,10 @@ def verificar_autenticacao():
     return st.session_state.admin_logado
 
 def exibir_login():
+    if verificar_autenticacao():
+        st.success("✅ Login realizado com sucesso!")
+        return
+    
     st.title("🔐 Login Administrativo")
     
     
